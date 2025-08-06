@@ -19,6 +19,7 @@ Outside of coding, you’ll probably find me playing video games or climbing.
 
 <div align="center">
   <img src="https://github-stats-naymdev.vercel.app/api?username=NaymDev&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-naymdev.vercel.app/api/wakatime?username=Tkoyr&langs_count=5&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
