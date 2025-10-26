@@ -10,9 +10,9 @@ Outside of coding, you’ll probably find me playing video games or climbing.
   <a href="https://discordapp.com/users/1154076891351883887" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:naymdev@outlook.com" target="_blank">
+  <!--<a href="mailto:naymdev@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  </a>-->
 </div>
 
 ###
