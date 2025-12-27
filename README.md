@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm Damian, also known as NaymDev. I'm a student and young developer who loves building all kinds of random projects. From Minecraft bots to small utilities to APIs. I primarily work with Java, Python, GO and Rust. I also worked with JavaScript & TypeScript and some other programming languages.
-
-Outside of coding, you’ll probably find me playing video games or climbing.
+I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [Minestats](https://github.com/MineStatsDev) and work on some other big projects.
 
 ###
 
@@ -24,7 +22,7 @@ Outside of coding, you’ll probably find me playing video games or climbing.
 
 ###
 
-💡 If we've worked together or if you've found my work helpful, consider leaving a ⭐ on the repo and following me! It helps more than you think and keeps the motivation high
+💡 If we've worked together or if you've found my work helpful, consider leaving a ⭐ on the repo and following me! It helps more than you think and keeps me motivated
 
 ![](https://komarev.com/ghpvc/?username=NaymDev&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?account_id=125344509)
