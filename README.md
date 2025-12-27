@@ -5,7 +5,7 @@ I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [Mi
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1154076891351883887" target="_blank">
+  <a href="https://discordapp.com/users/931893674848165910" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:damian.devs@outlook.de" target="_blank">
