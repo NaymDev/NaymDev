@@ -27,3 +27,4 @@ Outside of coding, you’ll probably find me playing video games or climbing.
 💡 If we've worked together or if you've found my work helpful, consider leaving a ⭐ on the repo and following me! It helps more than you think and keeps the motivation high
 
 ![](https://komarev.com/ghpvc/?username=NaymDev&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?account_id=125344509)
