@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [Minestats](https://github.com/MineStatsDev) and work on some other big projects.
+I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [MineStats](https://github.com/MineStatsDev) and work on some other big projects.
 
 ###
 
