@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [MineStats](https://github.com/MineStatsDev) and work on some other big projects.
+I'm Damian, also known as NaymDev or Tkoyr. I'm ...
+- Owner and lead engineer @ [MineStats](https://github.com/MineStatsDev)
+- Developer @ [RBW](https://github.com/rankedbw)
+- work on some other small and big projects
 
 ###
 
@@ -22,7 +25,7 @@ I'm Damian, also known as NaymDev or Tkoyr. I'm lead and backend engineer at [Mi
 
 ###
 
-💡 If we've worked together or if you've found my work helpful, consider leaving a ⭐ on the repo and following me! It helps more than you think and keeps me motivated
+If we've worked together or if you've found my work helpful, consider leaving a ⭐ on a repo and following me! It helps more than you think and keeps me motivated
 
 ![](https://komarev.com/ghpvc/?username=NaymDev&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?account_id=125344509)
