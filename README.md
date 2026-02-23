@@ -19,8 +19,14 @@ I'm Damian, also known as NaymDev or Tkoyr. I'm ...
 ###
 
 <div align="center">
-  <img src="https://github-stats-naymdev.vercel.app/api?username=NaymDev&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-stats-naymdev.vercel.app/api/wakatime?username=Tkoyr&api_domain=wakapi.dev&langs_count=5&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <a href="https://github.com/NaymDev#gh-dark-mode-only">
+    <img src="https://github-stats-naymdev.vercel.app/api?username=NaymDev&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-stats-naymdev.vercel.app/api/wakatime?username=Tkoyr&api_domain=wakapi.dev&langs_count=5&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  </a>
+  <a href="https://github.com/NaymDev#gh-light-mode-only">
+    <img src="https://github-stats-naymdev.vercel.app/api?username=NaymDev&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-stats-naymdev.vercel.app/api/wakatime?username=Tkoyr&api_domain=wakapi.dev&langs_count=5&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  </a>
 </div>
 
 ###
