@@ -3,7 +3,7 @@
 I'm Damian, also known as NaymDev or Tkoyr. I'm ...
 - Owner and lead engineer @ [MineStats](https://github.com/MineStatsDev)
 - Developer @ [RBW](https://github.com/rankedbw)
-- work on some other small and big projects
+- working on some other small and big projects
 
 ###
 
