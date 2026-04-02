@@ -1,11 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Damian</h1>
 
-I'm Damian, also known as NaymDev or Tkoyr. I'm ...
+also known as NaymDev or Tkoyr. I'm ...
 - Owner and lead engineer @ [MineStats](https://github.com/MineStatsDev)
 - Developer @ [RBW](https://github.com/rankedbw)
 - working on some other small and big projects
 
-###
+# `Contact`
 
 <div align="center">
   <a href="https://discordapp.com/users/931893674848165910" target="_blank">
@@ -16,7 +16,7 @@ I'm Damian, also known as NaymDev or Tkoyr. I'm ...
   </a>
 </div>
 
-###
+# `Stats`
 
 <div align="center">
   <a href="https://github.com/NaymDev#gh-dark-mode-only">
@@ -29,9 +29,9 @@ I'm Damian, also known as NaymDev or Tkoyr. I'm ...
   </a>
 </div>
 
-###
+<!--###
 
-If we've worked together or if you've found my work helpful, consider leaving a ⭐ on a repo and following me! It helps more than you think and keeps me motivated
+If we've worked together or if you've found my work helpful, consider leaving a ⭐ on a repo and following me! It helps me stay motivated and continue to work every day
 
-![](https://komarev.com/ghpvc/?username=NaymDev&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=NaymDev&style=for-the-badge)-->
 ![](https://hit.yhype.me/github/profile?account_id=125344509)
