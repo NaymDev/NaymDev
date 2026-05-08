@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Damian</h1>
 
-also known as NaymDev or Tkoyr. I'm ...
+Also known as NaymDev or Tkoyr. I'm ...
 - Owner and lead engineer @ [MineStats](https://github.com/MineStatsDev)
 - Developer @ [RBW](https://github.com/rankedbw)
 - working on some other small and big projects
